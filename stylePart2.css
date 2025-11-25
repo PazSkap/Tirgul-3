@@ -1,0 +1,43 @@
+.div-relative {
+    position: relative;
+    background-color: lightgreen;
+    width: 500px;
+    height: 300px;
+    top: 50px;
+    left: 20px;
+    border: 2px solid black;
+    
+}
+
+.div-absolute {
+    position: absolute;
+    background-color: lightcoral;
+    width: 150px;
+    height: 100px;
+    bottom: 10px;
+    left: 10px;
+    border: 2px solid blue;
+    
+}
+
+.div-fixed {
+    position: fixed;
+    background-color: lightsalmon;
+    width: 100px;
+    height: 40px;
+    top: 0;
+    right: 0;
+    border: 2px solid red;
+   
+}
+
+.float-right-h3 {
+    float: right;
+}
+
+.float-para {
+    float: right;
+    background-color: cornflowerblue;
+    width: 200px;
+    height: 100px;
+}
